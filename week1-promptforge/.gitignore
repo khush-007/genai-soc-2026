@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Virtual Environment
+.venv/
+
+# PyCharm / IntelliJ files
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Gradio local files
+.gradio/
+
+# OS files
+.DS_Store
+Thumbs.db
