@@ -157,37 +157,37 @@ The Gradio application will start locally in your browser.
 
 ## 🔬 Technical Explainer
 
-![Technical Explainer](screenshots/technical_explainer.png)
+![Technical Explainer](week1-promptforge/screenshots/technical_explainer.png)
 
 ---
 
 ## 💻 DSA Mentor
 
-![DSA Mentor](screenshots/dsa_mentor.png)
+![DSA Mentor](week1-promptforge/screenshots/dsa_mentor.png)
 
 ---
 
 ## 🗣️ Debate Coach
 
-![Debate Coach](screenshots/debate_coach.png)
+![Debate Coach](week1-promptforge/screenshots/debate_coach.png)
 
 ---
 
 ## ✍️ Creative Writer
 
-![Creative Writer](screenshots/creative_writer.png)
+![Creative Writer](week1-promptforge/screenshots/creative_writer.png)
 
 ---
 
 ## 🔍 Code Reviewer
 
-![Code Reviewer](screenshots/code_reviewer.png)
+![Code Reviewer](week1-promptforge/screenshots/code_reviewer.png)
 
 ---
 
 ## 💬 Multi Chat History
 
-![Multi Chat History](screenshots/multichat.png)
+![Multi Chat History](week1-promptforge/screenshots/multichat.png)
 
 ---
 
